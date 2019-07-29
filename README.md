@@ -1,7 +1,6 @@
 # Grobner-bases
 This project aims to compute multivariate differential dimension grobner bases.
-This has been accomplished in guidance of Dr. ALexander Boris Levin.
-
+This work was supported by the NSF grant CCF-1714425 and has been accomplished in guidance of Dr. ALexander Boris Levin.
 In order to compute grobner bases. 
 You need to download all three files.(mono.py, Poly.py, Module.py)
 
