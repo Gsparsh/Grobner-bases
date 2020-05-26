@@ -1,4 +1,4 @@
-# Gröbner-bBses
+# Gröbner-Bases
 This project aims to compute Multivariable Differential Dimension Gröbner Bases.
 This work was supported by the NSF grant CCF-1714425 and has been accomplished in guidance of Dr. ALexander Boris Levin.
 -------------------------------------------------------------------------------------------------
